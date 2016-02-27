@@ -6,11 +6,15 @@ package algorithms;
 /**
  * @author vettle
  *
+ * This is the solution for Introduction to Algorithms by CORMEN 3rd Edition
+ * Exercise 2.1 - 2
  */
 public class InsertionSort {
 
 	/**
 	 * @param args
+	 * 
+	 * Time Complexity O(n^2)
 	 */
 	
 	static int a[] = {5,2,4,6,1,3};
