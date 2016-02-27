@@ -3,8 +3,6 @@
  */
 package algorithms;
 
-import java.lang.reflect.Array;
-
 /**
  * @author vettle
  *
